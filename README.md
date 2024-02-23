@@ -46,7 +46,7 @@ The program will display the following output in the console:
   - [T3]>[T1]: Been a while T1, hope you're well :)
   - [T1]>[T3]: Long time no see, T3!
   - [T1]>[T2]: Hey T2, how ya been?
-  - [T1] I am talking to myself (clearly delulu)
+  - [T1] tried to send a message to itself!
 ```
 
 ## Architecture and Design Documentation
