@@ -113,4 +113,4 @@ The Multi-Threaded Priority Message Queue Implementation provides a robust frame
 For detailed code implementation, refer to the source code.
 
 ### License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [GPL-3.0 License](LICENSE).
